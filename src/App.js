@@ -36,8 +36,6 @@ function App() {
     }
     return (
         <div className="App">
-            Today: {getFormattedDate(currentTime)} <br/>
-            Start: {getFormattedDate(startDate)}<br/>
             <div className="Ribbon">
                 <div className="nav">
                     <div className="Circle" onClick={goBack}/>
