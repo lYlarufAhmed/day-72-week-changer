@@ -33,7 +33,7 @@
     height: .5rem;
     width: .5rem;
     border-radius: 100%;
-    background-color: rgba(0, 0, 0);
+    background-color: rgba(0, 0, 0,1);
 }
 .today{
     font-weight: bold;
